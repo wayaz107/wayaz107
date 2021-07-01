@@ -18,6 +18,7 @@ This application allows users to view restaurants by different cities and cuisin
 
 
 Travel Diary -  <a href="https://github.com/wayaz107/sinatra_project">Frontend Repo</a>
+
 Travel Diary allows users to keep track of their travel history, and view other users reviews about places visited. Sinatra and Ruby
 
 
