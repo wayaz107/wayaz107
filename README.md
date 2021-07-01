@@ -6,7 +6,7 @@ Ambitious and driven Full-Stack Developer with strong foundation in JavaScript a
 
 ## Diva Skin Lounge – <a href="https://github.com/wayaz107/react-project-frontend">Frontend</a> | <a href="https://github.com/wayaz107/react-project-backend">Backend</a> | <a href= "https://www.youtube.com/watch?v=HZNxsQv5-gY"> Demo </a>
 
-A social media platform where users can view and create skincare products, and read reviews. React, Redux, and Ruby on Rails
+A social media platform where users can view and create skincare products and read reviews. React, Redux, and Ruby on Rails
 
 ## Travel Chicago App - <a href="https://github.com/wayaz107/Javascript-frontend-project">Frontend Repo</a> | <a href= "https://www.youtube.com/watch?v=SrBeU-EC7cw"> Demo </a>
 
