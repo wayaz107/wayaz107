@@ -10,7 +10,7 @@ A social media platform where users can view and create skincare products, and r
 
 ## Travel Chicago App - <a href="https://github.com/wayaz107/Javascript-frontend-project">Frontend Repo</a> | <a href= "https://www.youtube.com/watch?v=SrBeU-EC7cw"> Demo </a>
 
-A travel-Chicago app that allows users to view activities in Chicago based on season type and create new activities to the different seasons.Vanilla JS and Ruby on Rails
+A travel-Chicago app that allows users to view activities in Chicago based on season type and create new activities for different seasons.Vanilla JS and Ruby on Rails
 
 ## Restaurant World - <a href="https://github.com/wayaz107/rails_portfolio_project">Frontend Repo</a>| <a href= "https://www.youtube.com/watch?v=De7lwOUazmk"> Demo </a>
 
