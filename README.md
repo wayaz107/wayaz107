@@ -1,6 +1,4 @@
-# wayaz107
-
-Hey! I'm Warda! 
+#Hey! I'm Warda! 
 
 Ambitious and driven Full-Stack Developer with strong foundation in JavaScript and Ruby. Always on a journey of continued learning and personal and professional growth. Passionate about code and love learning new information and challenging myself. When I am not working on my professional aspirations, I love spending time with family and friends, traveling, learning and exploring different cultures, and enjoying any activities that allow me to connect with nature.
 
